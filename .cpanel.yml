@@ -2,5 +2,4 @@ deployment:
     tasks:
         - export DEPLOYPATH=~/app.thomas-claireau.fr/vuejs-carousel
         - /bin/cp -R * $DEPLOYPATH
-		    - chmod +x $DEPLOYPATH/build.sh
         - $DEPLOYPATH/build.sh 2>&1
