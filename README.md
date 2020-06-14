@@ -1,4 +1,4 @@
-# vuejs-carousel test
+# vuejs-carousel
 
 ## Project setup
 
